@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/atividadeDesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/atividadeDesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comDesignPattern/comDesignPattern.iml" filepath="$PROJECT_DIR$/comDesignPattern/comDesignPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semDesignPattern/semDesignPattern.iml" filepath="$PROJECT_DIR$/semDesignPattern/semDesignPattern.iml" />
+    </modules>
+  </component>
+</project>
